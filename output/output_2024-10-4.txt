@@ -1,0 +1,2 @@
+2024-10-04T04:07:17.0000 - DEBUG - Cache cleared successfully.
+2024-10-04T21:19:37.0000 - DEBUG - User successfully logged in.
